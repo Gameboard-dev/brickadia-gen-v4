@@ -2,6 +2,8 @@
 
 The **Brickadia Maze Generator** is a Rust-based tool for generating and visualizing circular mazes. It creates mazes with concentric rings and divisions, and exports them as both visual images and Brickadia-compatible save files. The project leverages parallel processing for efficient computation and provides a modular design for customization.
 
+![Alt Text](Theta.jpg)
+
 ---
 
 ## Features

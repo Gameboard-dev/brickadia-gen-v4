@@ -57,7 +57,7 @@ The project is organized into modular components for ease of development and ext
    git clone https://github.com/your-username/brickadia-maze-generator.git
    cd brickadia-maze-generator
 1. **Install Dependencies: Ensure you have Rust installed. Then, run:**
-```bash
-cargo build
-cargo test generate_maze
-cargo test render_arc
+   ```bash
+   cargo build
+   cargo test generate_maze
+   cargo test render_arc
